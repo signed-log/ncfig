@@ -47,8 +47,11 @@ Syncs NGINX reverse-proxy configuration with Cloudflare's API
 ## :sparkles: Features ##
 
 :heavy_check_mark: Seamlessly sync your config file
+
 :heavy_check_mark: Supports only API Token
+
 :heavy_check_mark: Compatible with Linux and MacOS
+
 :heavy_check_mark: Can delete and edit existing records when they leave the config file or when the IP change (soon...)
 
 ## :rocket: Technologies ##
